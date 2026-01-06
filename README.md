@@ -1,4 +1,4 @@
-﻿# BeyondChats Blog Application
+# BeyondChats Blog Application
 
 Full-stack blog application built with MERN stack (MongoDB, Express, React, Node.js).
 
@@ -55,7 +55,7 @@ PORT=5000
 - JWT authentication
 
 ## Author
-**Shreya Mrutkar**
+**Shreya Amrutkar**
 ECE Student | Full-Stack Developer
 
 ## Submission
